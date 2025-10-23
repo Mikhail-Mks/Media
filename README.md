@@ -2,7 +2,7 @@
 
 
 
-| Topic | Link to the article | Materials |
+| Topic | Link to the article | Project materials |
 |----------|:-------------:|------:|
 | Bar Chart with Multiple Dynamic Parameters in Power BI | [Link](https://biwave.substack.com/p/dashboard-clutter-is-killing-your) | [Link](https://github.com/Mikhail-Mks/Media/tree/main/Bar%20Chart%20with%20Multiple%20Dynamic%20Parameters) |
 | Gradient Area Chart in Power BI | [Link](https://biwave.substack.com/p/beyond-basic-charts-creating-stunning) | [Link](https://github.com/Mikhail-Mks/Media/tree/main/Gradient_Area_Chart) |
