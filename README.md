@@ -1,4 +1,4 @@
-# Materials for Articles
+# Materials for the Articles
 
 
 
@@ -8,8 +8,8 @@
 | Gradient Area Chart in Power BI | [Link](https://biwave.substack.com/p/beyond-basic-charts-creating-stunning) | [Link](https://github.com/Mikhail-Mks/Media/tree/main/Gradient_Area_Chart) |
 | Error Bar combo chart in Power BI | [Link](https://biwave.substack.com/p/stop-creating-multiple-dashboard) | [Link](https://github.com/Mikhail-Mks/Media/tree/main/Error_bars_combo_chart) |
 | Spaghetti Chart in Power BI | [Link](https://biwave.substack.com/p/stop-the-spaghetti-monster-transform) | [Link](https://github.com/Mikhail-Mks/Media/tree/main/Spaghetti%20chart) |
-| _ | _ | _ |
-| _ | _ | _ |
+| From Chaos to Clarity: My Data Cleaning Process in Power BI | [Link](https://biwave.substack.com/p/from-chaos-to-clarity-my-data-cleaning) | _ |
+| The Hidden Stories Behind Outliers and How to Find Them | [Link](https://biwave.substack.com/p/the-hidden-stories-behind-outliers) | _ |
 | _ | _ | _ |
 | _ | _ | _ |
 | _ | _ | _ |
