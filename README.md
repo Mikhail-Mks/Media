@@ -11,7 +11,7 @@
 | From Chaos to Clarity: My Data Cleaning Process in Power BI | [Link](https://biwave.substack.com/p/from-chaos-to-clarity-my-data-cleaning) | _ |
 | The Hidden Stories Behind Outliers and How to Find Them | [Link](https://biwave.substack.com/p/the-hidden-stories-behind-outliers) | _ |
 | SQL Window Functions| [Link](https://biwave.substack.com/p/stop-writing-5-queries-when-you-only) | _ |
-| _ | _ | _ |
+| SQL Indexes | [_](https://biwave.substack.com/p/turn-million-row-scans-into-millisecond-queries) | _ |
 | _ | _ | _ |
 
 
