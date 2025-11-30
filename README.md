@@ -12,6 +12,6 @@
 | The Hidden Stories Behind Outliers and How to Find Them | [Link](https://biwave.substack.com/p/the-hidden-stories-behind-outliers) | _ |
 | SQL Window Functions| [Link](https://biwave.substack.com/p/stop-writing-5-queries-when-you-only) | _ |
 | SQL Indexes | [Link](https://biwave.substack.com/p/turn-million-row-scans-into-millisecond-queries) | _ |
-| _ | _ | _ |
+| Data Cleaning in SQL | [Link](https://biwave.substack.com/p/sql-tricks-to-fix-data-disaster-in-minutes) | _ |
 
 
