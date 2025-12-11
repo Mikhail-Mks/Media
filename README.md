@@ -14,5 +14,5 @@
 | SQL Indexes | [Link](https://biwave.substack.com/p/turn-million-row-scans-into-millisecond-queries) | _ |
 | Data Cleaning in SQL | [Link](https://biwave.substack.com/p/sql-tricks-to-fix-data-disaster-in-minutes) | _ |
 | Data Cleaning in Python | [Link](https://biwave.substack.com/p/your-data-is-dirtier-than-you-think) | _ |
-
+| Regular Expressions | [Link](https://biwave.substack.com/p/stop-struggling-with-messy-text-data) | _ |
 
