@@ -15,4 +15,5 @@
 | Data Cleaning in SQL | [Link](https://biwave.substack.com/p/sql-tricks-to-fix-data-disaster-in-minutes) | _ |
 | Data Cleaning in Python | [Link](https://biwave.substack.com/p/your-data-is-dirtier-than-you-think) | _ |
 | Regular Expressions | [Link](https://biwave.substack.com/p/stop-struggling-with-messy-text-data) | _ |
+| Fuzzy matching | [Link](https://biwave.substack.com/p/fuzzy-matching-in-power-bi-sql-and-python) | _ |
 
