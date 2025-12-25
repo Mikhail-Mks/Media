@@ -16,4 +16,5 @@
 | Data Cleaning in Python | [Link](https://biwave.substack.com/p/your-data-is-dirtier-than-you-think) | _ |
 | Regular Expressions | [Link](https://biwave.substack.com/p/stop-struggling-with-messy-text-data) | _ |
 | Fuzzy matching | [Link](https://biwave.substack.com/p/fuzzy-matching-in-power-bi-sql-and-python) | _ |
+| Naming Conventions | [Link](https://biwave.substack.com/p/learn-practical-naming-conventions) | _ |
 
