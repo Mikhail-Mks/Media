@@ -17,4 +17,4 @@
 | Regular Expressions | [Link](https://biwave.substack.com/p/stop-struggling-with-messy-text-data) | _ |
 | Fuzzy matching | [Link](https://biwave.substack.com/p/fuzzy-matching-in-power-bi-sql-and-python) | _ |
 | Naming Conventions | [Link](https://biwave.substack.com/p/learn-practical-naming-conventions) | _ |
-
+| How to handle missing data | [Link](https://biwave.substack.com/p/how-to-handle-missing-data) | _ |
