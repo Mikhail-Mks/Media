@@ -19,3 +19,4 @@
 | Naming Conventions | [Link](https://biwave.substack.com/p/learn-practical-naming-conventions) | _ |
 | How to handle missing data | [Link](https://biwave.substack.com/p/how-to-handle-missing-data) | _ |
 | 19 DAX mistakes beginers make| [Link](https://biwave.substack.com/p/19-critical-dax-mistakes-beginners-make) | _ |
+| Time Intelligence in Power BI | [Link](https://biwave.substack.com/p/power-bi-time-intelligence) | _ |
