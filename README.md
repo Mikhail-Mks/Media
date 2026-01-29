@@ -21,3 +21,4 @@
 | 19 DAX mistakes beginers make| [Link](https://biwave.substack.com/p/19-critical-dax-mistakes-beginners-make) | _ |
 | Time Intelligence in Power BI | [Link](https://biwave.substack.com/p/power-bi-time-intelligence) | _ |
 | Data Security in Power BI | [Link](https://biwave.substack.com/p/power-bi-security) | _ |
+| Alerts in Power BI | [Link](https://biwave.substack.com/p/power-bi-alerts-and-triggers) | _ |
