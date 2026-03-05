@@ -22,6 +22,7 @@
 | Regular Expressions                                    | [Link](https://biwave.substack.com/p/stop-struggling-with-messy-text-data)          | _ |
 | Spaghetti Chart in Power BI                            | [Link](https://biwave.substack.com/p/stop-the-spaghetti-monster-transform)          | [Link](https://github.com/Mikhail-Mks/Media/tree/main/Spaghetti%20chart) |
 | SQL Indexes                                            | [Link](https://biwave.substack.com/p/turn-million-row-scans-into-millisecond-queries)| _ |
+| SQL Materialized Views                                            | [Link](https://medium.com/@BIWave/sql-materialized-views-307880f9f170)| _ |
 | SQL Window Functions                                   | [Link](https://biwave.substack.com/p/stop-writing-5-queries-when-you-only)          | _ |
 | SQL Performance optimisation                         | [Link](https://biwave.substack.com/p/10-sql-performance-optimization-tricks)                    | _ |
 | Time Intelligence in Power BI                          | [Link](https://biwave.substack.com/p/power-bi-time-intelligence)                    | _ |
