@@ -8,10 +8,11 @@
 | Beginners DAX mistakes                                 | [Link](https://biwave.substack.com/p/19-critical-dax-mistakes-beginners-make)       | _ |
 | Calculation groups in Power BI                         | [Link](https://biwave.substack.com/p/power-bi-calculation-groups)                   | _ |
 | Communication in Data Analysis                         | [Link](https://biwave.substack.com/p/communication-in-data-analysis)                | _ |
-| Data Dictionary in Power BI                            | [Link](https://biwave.substack.com/p/power-bi-model-documentation)                | _ |
 | Data Cleaning in Python                                | [Link](https://biwave.substack.com/p/your-data-is-dirtier-than-you-think)           | _ |
 | Data Cleaning in SQL                                   | [Link](https://biwave.substack.com/p/sql-tricks-to-fix-data-disaster-in-minutes)    | _ |
 | Data Cleaning Process in Power BI                      | [Link](https://biwave.substack.com/p/from-chaos-to-clarity-my-data-cleaning)        | _ |
+| Data Governance                           | [Link](https://biwave.substack.com/p/data-governance)                | _ |
+| Data Dictionary in Power BI                            | [Link](https://biwave.substack.com/p/power-bi-model-documentation)                | _ |
 | Data Security in Power BI                              | [Link](https://biwave.substack.com/p/power-bi-security)                             | _ |
 | Error Bar combo chart in Power BI                      | [Link](https://biwave.substack.com/p/stop-creating-multiple-dashboard)              | [Link](https://github.com/Mikhail-Mks/Media/tree/main/Error_bars_combo_chart) |
 | Fuzzy matching                                         | [Link](https://biwave.substack.com/p/fuzzy-matching-in-power-bi-sql-and-python)     | _ |
