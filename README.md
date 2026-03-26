@@ -14,7 +14,7 @@
 | Data Governance                           | [Link](https://biwave.substack.com/p/data-governance)                | _ |
 | Data Dictionary in Power BI                            | [Link](https://biwave.substack.com/p/power-bi-model-documentation)                | _ |
 | Data Security in Power BI                              | [Link](https://biwave.substack.com/p/power-bi-security)                             | _ |
-| Dataset generation for Data Analysis                   | [Link](TBD)                                                                  | [link](https://github.com/Mikhail-Mks/Media/tree/main/Dataset%20Generation%20prompts)|
+| Dataset generation for Data Analysis                   | [Link](https://biwave.substack.com/p/datasets-for-data-analysis)                    | [Link](https://github.com/Mikhail-Mks/Media/tree/main/Dataset%20Generation%20prompts)|
 | Error Bar combo chart in Power BI                      | [Link](https://biwave.substack.com/p/stop-creating-multiple-dashboard)              | [Link](https://github.com/Mikhail-Mks/Media/tree/main/Error_bars_combo_chart) |
 | Fuzzy matching                                         | [Link](https://biwave.substack.com/p/fuzzy-matching-in-power-bi-sql-and-python)     | _ |
 | Gradient Area Chart in Power BI                        | [Link](https://biwave.substack.com/p/beyond-basic-charts-creating-stunning)         | [Link](https://github.com/Mikhail-Mks/Media/tree/main/Gradient_Area_Chart) |
