@@ -16,6 +16,7 @@
 | Data Security in Power BI                              | [Link](https://biwave.substack.com/p/power-bi-security)                             | _ |
 | Dataset generation for Data Analysis                   | [Link](https://biwave.substack.com/p/datasets-for-data-analysis)                    | [Link](https://github.com/Mikhail-Mks/Media/tree/main/Dataset%20Generation%20prompts)|
 | Error Bar combo chart in Power BI                      | [Link](https://biwave.substack.com/p/stop-creating-multiple-dashboard)              | [Link](https://github.com/Mikhail-Mks/Media/tree/main/Error_bars_combo_chart) |
+| Evaluation Context in Power BI                         | [Link](https://biwave.substack.com/p/power-bi-evaluation-context)                                                | _ |
 | Fuzzy matching                                         | [Link](https://biwave.substack.com/p/fuzzy-matching-in-power-bi-sql-and-python)     | _ |
 | Gradient Area Chart in Power BI                        | [Link](https://biwave.substack.com/p/beyond-basic-charts-creating-stunning)         | [Link](https://github.com/Mikhail-Mks/Media/tree/main/Gradient_Area_Chart) |
 | How to handle missing data                             | [Link](https://biwave.substack.com/p/how-to-handle-missing-data)                    | _ |
