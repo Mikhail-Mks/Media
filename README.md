@@ -13,6 +13,7 @@
 | Data Cleaning Process in Power BI                      | [Link](https://biwave.substack.com/p/from-chaos-to-clarity-my-data-cleaning)        | _ |
 | Data Governance                           | [Link](https://biwave.substack.com/p/data-governance)                | _ |
 | Data Dictionary in Power BI                            | [Link](https://biwave.substack.com/p/power-bi-model-documentation)                | _ |
+| Data Modeling in Power BI                            | [Link](https://biwave.substack.com/p/data-modeling-in-power-bi)                | _ |
 | Data Security in Power BI                              | [Link](https://biwave.substack.com/p/power-bi-security)                             | _ |
 | Dataset generation for Data Analysis                   | [Link](https://biwave.substack.com/p/datasets-for-data-analysis)                    | [Link](https://github.com/Mikhail-Mks/Media/tree/main/Dataset%20Generation%20prompts)|
 | Error Bar combo chart in Power BI                      | [Link](https://biwave.substack.com/p/stop-creating-multiple-dashboard)              | [Link](https://github.com/Mikhail-Mks/Media/tree/main/Error_bars_combo_chart) |
