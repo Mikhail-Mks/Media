@@ -7,7 +7,7 @@
 | Bar Chart with Multiple Dynamic Parameters in Power BI | [Link](https://biwave.substack.com/p/dashboard-clutter-is-killing-your)             | [Link](https://github.com/Mikhail-Mks/Media/tree/main/Bar%20Chart%20with%20Multiple%20Dynamic%20Parameters) |
 | Beginners DAX Mistakes                                 | [Link](https://biwave.substack.com/p/19-critical-dax-mistakes-beginners-make)       | _ |
 | Calculation Groups in Power BI                         | [Link](https://biwave.substack.com/p/power-bi-calculation-groups)                   | _ |
-| Cohort Analysis in Power BI                         | [Link](xx)                   | [Link](https://github.com/Mikhail-Mks/Media/tree/main/Cohort%20Analysis%20in%20Power%20BI) |
+| Cohort Analysis in Power BI                         | [Link](https://biwave.substack.com/p/cohort-analysis-in-power-bi)                   | [Link](https://github.com/Mikhail-Mks/Media/tree/main/Cohort%20Analysis%20in%20Power%20BI) |
 | Communication in Data Analysis                         | [Link](https://biwave.substack.com/p/communication-in-data-analysis)                | _ |
 | Data Cleaning in Python                                | [Link](https://biwave.substack.com/p/your-data-is-dirtier-than-you-think)           | _ |
 | Data Cleaning in SQL                                   | [Link](https://biwave.substack.com/p/sql-tricks-to-fix-data-disaster-in-minutes)    | _ |
