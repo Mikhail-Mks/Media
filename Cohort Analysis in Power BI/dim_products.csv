@@ -1,0 +1,38 @@
+ProductID,ProductName,Category,Subcategory,UnitPrice
+PROD-001,ProBook 14,Electronics,Laptops,1226.38
+PROD-002,UltraSlim 15,Electronics,Laptops,505.32
+PROD-003,WorkStation X,Electronics,Laptops,722.82
+PROD-004,Budget Laptop Z,Electronics,Laptops,921.23
+PROD-005,SmartX Pro,Electronics,Phones,843.32
+PROD-006,SmartX Lite,Electronics,Phones,689.21
+PROD-007,NovaPad Mini,Electronics,Phones,511.33
+PROD-008,NovaPad Pro,Electronics,Phones,342.59
+PROD-009,USB-C Hub,Electronics,Accessories,89.78
+PROD-010,Wireless Mouse,Electronics,Accessories,121.48
+PROD-011,Mechanical Keyboard,Electronics,Accessories,103.76
+PROD-012,Webcam HD,Electronics,Accessories,109.67
+PROD-013,Headset Pro,Electronics,Accessories,134.4
+PROD-014,Ergonomic Chair,Office,Furniture,487.6
+PROD-015,Standing Desk,Office,Furniture,295.3
+PROD-016,Monitor Stand,Office,Furniture,189.62
+PROD-017,Bookshelf Unit,Office,Furniture,242.78
+PROD-018,Notebook Pack,Office,Supplies,9.52
+PROD-019,Pen Set,Office,Supplies,21.71
+PROD-020,Sticky Notes Bulk,Office,Supplies,37.73
+PROD-021,Desk Organizer,Office,Supplies,38.34
+PROD-022,Classic Tee,Clothing,Tops,27.82
+PROD-023,Polo Shirt,Clothing,Tops,88.43
+PROD-024,Hoodie Premium,Clothing,Tops,38.87
+PROD-025,Fleece Jacket,Clothing,Tops,25.5
+PROD-026,Slim Chinos,Clothing,Bottoms,54.35
+PROD-027,Cargo Pants,Clothing,Bottoms,52.67
+PROD-028,Jogger Set,Clothing,Bottoms,65.64
+PROD-029,Shorts Pack,Clothing,Bottoms,32.8
+PROD-030,Coffee Maker Pro,Home,Kitchen,33.74
+PROD-031,Blender X,Home,Kitchen,164.42
+PROD-032,Toaster Oven,Home,Kitchen,129.73
+PROD-033,Electric Kettle,Home,Kitchen,70.03
+PROD-034,LED Desk Lamp,Home,Decor,79.8
+PROD-035,Canvas Print Set,Home,Decor,75.75
+PROD-036,Throw Pillow Set,Home,Decor,97.89
+PROD-037,Wall Clock,Home,Decor,23.39
