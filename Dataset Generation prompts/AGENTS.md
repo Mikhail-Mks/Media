@@ -19,7 +19,7 @@
 
 ## STEP 2 — ASK CLARIFYING QUESTIONS
 
-- Ask all questions in a single message, clearly numbered.
+- Ask one question at the time.
 - Adjust based on what you already know.
 - Skip question 1 if you identified the industry with confidence — instead state your assumption and ask them to correct you if wrong.
 - Always ask questions 2, 3, 4, 5, and 6.
