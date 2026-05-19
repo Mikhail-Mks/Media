@@ -3,6 +3,7 @@
 | Topic                                                   | Link to the article                                                                 | Project materials |
 |--------------------------------------------------------|--------------------------------------------------------------------------------------|------------------|
 | Advanced DAX                                           | [Link](https://biwave.substack.com/p/complex-dax)                                   | _ |
+| Advanced SQL for Data Analysis                         | [Link](https://biwave.substack.com/p/advanced-sql-for-data-analysis)                | _ |
 | Alerts in Power BI                                     | [Link](https://biwave.substack.com/p/power-bi-alerts-and-triggers)                  | _ |
 | Bar Chart with Multiple Dynamic Parameters in Power BI | [Link](https://biwave.substack.com/p/dashboard-clutter-is-killing-your)             | [Link](https://github.com/Mikhail-Mks/Media/tree/main/Bar%20Chart%20with%20Multiple%20Dynamic%20Parameters) |
 | Beginners DAX Mistakes                                 | [Link](https://biwave.substack.com/p/19-critical-dax-mistakes-beginners-make)       | _ |
