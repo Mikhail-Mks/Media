@@ -39,5 +39,6 @@
 | SQL Window Functions                                   | [Link](https://biwave.substack.com/p/stop-writing-5-queries-when-you-only)          | _ |
 | SQL Performance optimisation                           | [Link](https://biwave.substack.com/p/10-sql-performance-optimization-tricks)                    | _ |
 | Time Intelligence in Power BI                          | [Link](https://biwave.substack.com/p/power-bi-time-intelligence)                    | _ |
+| Time Intelligence in SQL                         | [Link](https://biwave.substack.com/p/time-intelligence-in-sql)                    | _ |
 | What-If Parameters in Power BI                         | [Link](https://biwave.substack.com/p/power-bi-what-if-parameters)                    | _ |
 
