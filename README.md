@@ -16,6 +16,7 @@
 | Data Cleaning Process in Power BI                      | [Link](https://biwave.substack.com/p/from-chaos-to-clarity-my-data-cleaning)        | _ |
 | Data Dictionary in Power BI                            | [Link](https://biwave.substack.com/p/power-bi-model-documentation)                | _ |
 | Data Governance                           | [Link](https://biwave.substack.com/p/data-governance)                | _ |
+| Data Literacy                           | [Link](https://biwave.substack.com/p/data-literacy)                | _ |
 | Data Modeling in Power BI                            | [Link](https://biwave.substack.com/p/data-modeling-in-power-bi)                | _ |
 | Data Security in Power BI                              | [Link](https://biwave.substack.com/p/power-bi-security)                             | _ |
 | Dataset Generation for Data Analysis                   | [Link](https://biwave.substack.com/p/datasets-for-data-analysis)                    | [Link](https://github.com/Mikhail-Mks/Media/tree/main/Dataset%20Generation%20prompts)|
