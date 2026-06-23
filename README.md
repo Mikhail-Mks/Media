@@ -28,6 +28,7 @@
 | Fuzzy Matching                                         | [Link](https://biwave.substack.com/p/fuzzy-matching-in-power-bi-sql-and-python)     | _ |
 | Gradient Area Chart in Power BI                        | [Link](https://biwave.substack.com/p/beyond-basic-charts-creating-stunning)         | [Link](https://github.com/Mikhail-Mks/Media/tree/main/Gradient_Area_Chart) |
 | How to handle Missing Data                             | [Link](https://biwave.substack.com/p/how-to-handle-missing-data)                    | _ |
+| Iterator Functions in Power BI                            | [Link](https://biwave.substack.com/p/iterator-functions-in-power-bi)                    | _ |
 | Naming Conventions                                     | [Link](https://biwave.substack.com/p/learn-practical-naming-conventions)            | _ |
 | Outliers and How to Find Them|                         [Link](https://biwave.substack.com/p/the-hidden-stories-behind-outliers)            | _ |
 | Power BI Performance optimisation                      | [Link](https://biwave.substack.com/p/why-is-my-power-bi-so-slow-after)                    | _ |
