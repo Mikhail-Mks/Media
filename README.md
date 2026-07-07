@@ -1,4 +1,4 @@
-# Materials for the Articles
+# Articles and Supporting Materials
 
 | Topic                                                   | Link to the article                                                                 | Project materials |
 |--------------------------------------------------------|--------------------------------------------------------------------------------------|------------------|
