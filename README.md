@@ -3,6 +3,7 @@
 | Topic                                                   | Link to the article                                                                 | Project materials |
 |--------------------------------------------------------|--------------------------------------------------------------------------------------|------------------|
 | Advanced DAX                                           | [Link](https://biwave.substack.com/p/complex-dax)                                   | _ |
+| Advanced Imputation methods in Python                                          | [Link](https://biwave.substack.com/p/advanced-imputation-in-python)                                   | _ |
 | Advanced Power Query                                   | [Link](https://biwave.substack.com/p/advanced-power-query)                                   | _ |
 | Advanced SQL for Data Analysis                         | [Link](https://biwave.substack.com/p/advanced-sql-for-data-analysis)                | _ |
 | Alerts in Power BI                                     | [Link](https://biwave.substack.com/p/power-bi-alerts-and-triggers)                  | _ |
