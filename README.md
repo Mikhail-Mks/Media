@@ -11,10 +11,11 @@
 | Beginners DAX Mistakes                                 | [Link](https://biwave.substack.com/p/19-critical-dax-mistakes-beginners-make)       | _ |
 | Calculation Groups in Power BI                         | [Link](https://biwave.substack.com/p/power-bi-calculation-groups)                   | _ |
 | Cohort Analysis in Power BI                         | [Link](https://biwave.substack.com/p/cohort-analysis-in-power-bi)                   | [Link](https://github.com/Mikhail-Mks/Media/tree/main/Cohort%20Analysis%20in%20Power%20BI) |
+| Common Table Expressions in SQL                       | [Link](https://biwave.substack.com/p/common-table-expressions-in-sql)                | _ |
 | Communication in Data Analysis                         | [Link](https://biwave.substack.com/p/communication-in-data-analysis)                | _ |
 | Data Cleaning in Python                                | [Link](https://biwave.substack.com/p/your-data-is-dirtier-than-you-think)           | _ |
 | Data Cleaning in SQL                                   | [Link](https://biwave.substack.com/p/sql-tricks-to-fix-data-disaster-in-minutes)    | _ |
-| Data Cleaning Process in Power BI                      | [Link](https://biwave.substack.com/p/from-chaos-to-clarity-my-data-cleaning)        | _ |
+| Data Cleaning in Power BI                      | [Link](https://biwave.substack.com/p/from-chaos-to-clarity-my-data-cleaning)        | _ |
 | Data Dictionary in Power BI                            | [Link](https://biwave.substack.com/p/power-bi-model-documentation)                | _ |
 | Data Governance                           | [Link](https://biwave.substack.com/p/data-governance)                | _ |
 | Data Literacy                           | [Link](https://biwave.substack.com/p/data-literacy)                | _ |
