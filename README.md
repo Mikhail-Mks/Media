@@ -27,6 +27,7 @@
 | Debugging in SQL                          | [Link](https://biwave.substack.com/p/debugging-in-sql)                | _ |
 | Error Bar combo chart in Power BI                      | [Link](https://biwave.substack.com/p/stop-creating-multiple-dashboard)              | [Link](https://github.com/Mikhail-Mks/Media/tree/main/Error_bars_combo_chart) |
 | Error Handling and Troubleshooting in Power BI         | [Link](https://biwave.substack.com/p/error-handling-in-power-bi)                                                | _ |
+| ETL pipelines in Python for beginners         | [Link](https://biwave.substack.com/p/etl-pipelines-in-python-for-beginners)                                                | _ |
 | Evaluation Context in Power BI                         | [Link](https://biwave.substack.com/p/power-bi-evaluation-context)                                                | _ |
 | Field Parameters in Power BI                                        | [Link](https://biwave.substack.com/p/field-parameters-in-power-bi)     | _ |
 | Fuzzy Matching                                         | [Link](https://biwave.substack.com/p/fuzzy-matching-in-power-bi-sql-and-python)     | _ |
