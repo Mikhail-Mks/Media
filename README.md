@@ -13,6 +13,7 @@
 | Cohort Analysis in Power BI                         | [Link](https://biwave.substack.com/p/cohort-analysis-in-power-bi)                   | [Link](https://github.com/Mikhail-Mks/Media/tree/main/Cohort%20Analysis%20in%20Power%20BI) |
 | Common Table Expressions in SQL                       | [Link](https://biwave.substack.com/p/common-table-expressions-in-sql)                | _ |
 | Communication in Data Analysis                         | [Link](https://biwave.substack.com/p/communication-in-data-analysis)                | _ |
+| dbt (Data Build Tool) for beginners                               | [Link](https://biwave.substack.com/p/data-build-tool)           | _ |
 | Data Cleaning in Python                                | [Link](https://biwave.substack.com/p/your-data-is-dirtier-than-you-think)           | _ |
 | Data Cleaning in SQL                                   | [Link](https://biwave.substack.com/p/sql-tricks-to-fix-data-disaster-in-minutes)    | _ |
 | Data Cleaning in Power BI                      | [Link](https://biwave.substack.com/p/from-chaos-to-clarity-my-data-cleaning)        | _ |
