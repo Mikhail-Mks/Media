@@ -43,6 +43,7 @@
 | Python Integration in Power BI                      | [Link](https://biwave.substack.com/p/python-integration-in-power-bi)                    | _ |
 | Python Performance Optimization                      | [Link](https://biwave.substack.com/p/python-performance-optimization)                    | _ |
 | Regular Expressions                                    | [Link](https://biwave.substack.com/p/stop-struggling-with-messy-text-data)          | _ |
+| Semantic Model in Power BI and TMDL                                          | [Link](https://biwave.substack.com/p/power-bi-semantic-model)| _ |
 | Spaghetti Chart in Power BI                            | [Link](https://biwave.substack.com/p/stop-the-spaghetti-monster-transform)          | [Link](https://github.com/Mikhail-Mks/Media/tree/main/Spaghetti%20chart) |
 | SQL Indexes                                            | [Link](https://biwave.substack.com/p/turn-million-row-scans-into-millisecond-queries)| _ |
 | SQL Materialized Views                                            | [Link](https://biwave.substack.com/p/materialized-views)| _ |
