@@ -39,6 +39,7 @@
 | Joins in SQL                                        | [Link](https://biwave.substack.com/p/sql-joins)     | _ |
 | Naming Conventions                                     | [Link](https://biwave.substack.com/p/learn-practical-naming-conventions)            | _ |
 | NULLs in SQL                                     | [Link](https://biwave.substack.com/p/nulls-in-sql)            | _ |
+| OneLake                                    | [Link](https://biwave.substack.com/p/one-lake)            | _ |
 | Outliers and How to Find Them|                         [Link](https://biwave.substack.com/p/the-hidden-stories-behind-outliers)            | _ |
 | Power BI Performance optimisation                      | [Link](https://biwave.substack.com/p/why-is-my-power-bi-so-slow-after)                    | _ |
 | Python Integration in Power BI                      | [Link](https://biwave.substack.com/p/python-integration-in-power-bi)                    | _ |
