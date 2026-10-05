@@ -37,6 +37,7 @@
 | How to start in Data Analytics                             | [Link](https://biwave.substack.com/p/data-analytics-career)                    | _ |
 | Iterator Functions in Power BI                            | [Link](https://biwave.substack.com/p/iterator-functions-in-power-bi)                    | _ |
 | Joins in SQL                                        | [Link](https://biwave.substack.com/p/sql-joins)     | _ |
+| Measures, Calculated Columns, and Tables in Power BI                                     | [Link](https://biwave.substack.com/p/measures-calculated-columns-and-tables-in-power-bi)            | _ |
 | Naming Conventions                                     | [Link](https://biwave.substack.com/p/learn-practical-naming-conventions)            | _ |
 | NULLs in SQL                                     | [Link](https://biwave.substack.com/p/nulls-in-sql)            | _ |
 | OneLake                                    | [Link](https://biwave.substack.com/p/one-lake)            | _ |
