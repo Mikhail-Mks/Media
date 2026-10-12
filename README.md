@@ -1,6 +1,6 @@
 # Articles and Supporting Materials
 
-| Topic                                                   | Link to the article                                                                 | Project materials |
+| Topic                                                   | Article Link                                                               | Project materials |
 |--------------------------------------------------------|--------------------------------------------------------------------------------------|------------------|
 | Advanced DAX                                           | [Link](https://biwave.substack.com/p/complex-dax)                                   | _ |
 | Advanced Imputation methods in Python                                          | [Link](https://biwave.substack.com/p/advanced-imputation-in-python)                                   | _ |
