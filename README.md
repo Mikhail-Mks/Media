@@ -42,6 +42,7 @@
 | NULLs in SQL                                     | [Link](https://biwave.substack.com/p/nulls-in-sql)            | _ |
 | OneLake                                    | [Link](https://biwave.substack.com/p/one-lake)            | _ |
 | Outliers and How to Find Them|                         [Link](https://biwave.substack.com/p/the-hidden-stories-behind-outliers)            | _ |
+| Power Query M vs. DAX                      | [Link](https://biwave.substack.com/p/power-query-m-vs-dax)                    | _ |
 | Power BI Performance optimisation                      | [Link](https://biwave.substack.com/p/why-is-my-power-bi-so-slow-after)                    | _ |
 | Python Integration in Power BI                      | [Link](https://biwave.substack.com/p/python-integration-in-power-bi)                    | _ |
 | Python Performance Optimization                      | [Link](https://biwave.substack.com/p/python-performance-optimization)                    | _ |
