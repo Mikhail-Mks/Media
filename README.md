@@ -22,6 +22,7 @@
 | Data Literacy                           | [Link](https://biwave.substack.com/p/data-literacy)                | _ |
 | Data Modeling in Power BI                            | [Link](https://biwave.substack.com/p/data-modeling-in-power-bi)                | _ |
 | Data Pipelines in Python                           | [Link](https://biwave.substack.com/p/data-pipelines-in-python)                | _ |
+| Data Quality                           | [Link](https://biwave.substack.com/p/data-quality)                | _ |
 | Data Security in Power BI                              | [Link](https://biwave.substack.com/p/power-bi-security)                             | _ |
 | Dataset Generation for Data Analysis                   | [Link](https://biwave.substack.com/p/datasets-for-data-analysis)                    | [Link](https://github.com/Mikhail-Mks/Media/tree/main/Dataset%20Generation%20prompts)|
 | DAX Formulas Debugging                          | [Link](https://biwave.substack.com/p/dax-formulas-debugging)                | _ |
