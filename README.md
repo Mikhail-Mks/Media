@@ -25,6 +25,7 @@
 | Data Quality                           | [Link](https://biwave.substack.com/p/data-quality)                | _ |
 | Data Security in Power BI                              | [Link](https://biwave.substack.com/p/power-bi-security)                             | _ |
 | Dataset Generation for Data Analysis                   | [Link](https://biwave.substack.com/p/datasets-for-data-analysis)                    | [Link](https://github.com/Mikhail-Mks/Media/tree/main/Dataset%20Generation%20prompts)|
+| DAX Functions                         | [Link](https://biwave.substack.com/p/dax-functions)                | _ |
 | DAX Formulas Debugging                          | [Link](https://biwave.substack.com/p/dax-formulas-debugging)                | _ |
 | Debugging in SQL                          | [Link](https://biwave.substack.com/p/debugging-in-sql)                | _ |
 | Error Bar combo chart in Power BI                      | [Link](https://biwave.substack.com/p/stop-creating-multiple-dashboard)              | [Link](https://github.com/Mikhail-Mks/Media/tree/main/Error_bars_combo_chart) |
