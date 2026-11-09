@@ -21,6 +21,7 @@
 | Data Governance                           | [Link](https://biwave.substack.com/p/data-governance)                | _ |
 | Data Literacy                           | [Link](https://biwave.substack.com/p/data-literacy)                | _ |
 | Data Modeling in Power BI                            | [Link](https://biwave.substack.com/p/data-modeling-in-power-bi)                | _ |
+| Data Modeling Methodologies: Kimball, Inmon, Data Vault                          | [Link](https://biwave.substack.com/p/data-modeling-methodologies)                | _ |
 | Data Pipelines in Python                           | [Link](https://biwave.substack.com/p/data-pipelines-in-python)                | _ |
 | Data Quality                           | [Link](https://biwave.substack.com/p/data-quality)                | _ |
 | Data Security in Power BI                              | [Link](https://biwave.substack.com/p/power-bi-security)                             | _ |
