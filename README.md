@@ -55,6 +55,7 @@
 | SQL Indexes                                            | [Link](https://biwave.substack.com/p/turn-million-row-scans-into-millisecond-queries)| _ |
 | SQL Materialized Views                                            | [Link](https://biwave.substack.com/p/materialized-views)| _ |
 | SQL Text manipulation                           | [Link](https://biwave.substack.com/p/text-manipulation-in-sql)                    | _ |
+| SQL Subqueries vs CTEs vs Derived Tables                           | [Link](https://biwave.substack.com/p/sql-subqueries-cte-derived-tables)                    | _ |
 | SQL Performance optimisation                           | [Link](https://biwave.substack.com/p/10-sql-performance-optimization-tricks)                    | _ |
 | SQL Window Functions                                   | [Link](https://biwave.substack.com/p/stop-writing-5-queries-when-you-only)          | _ |
 | Time Intelligence in Power BI                          | [Link](https://biwave.substack.com/p/power-bi-time-intelligence)                    | _ |
